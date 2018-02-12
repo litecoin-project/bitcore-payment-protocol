@@ -1,8 +1,8 @@
 {
-  "name": "bitcore-payment-protocol",
-  "main": "./bitcore-payment-protocol.min.js",
+  "name": "berycore-payment-protocol",
+  "main": "./berycore-payment-protocol.min.js",
   "version": "1.1.1",
-  "homepage": "https://github.com/bitpay/bitcore-payment-protocol",
+  "homepage": "https://github.com/berycoin-project/berycore-payment-protocol",
   "authors": [
     "BitPay, Inc."
   ],
@@ -11,8 +11,8 @@
     "globals"
   ],
   "keywords": [
-    "bitcoin",
-    "bitcore",
+    "berycoin",
+    "berycore",
     "btc",
     "satoshi"
   ],
